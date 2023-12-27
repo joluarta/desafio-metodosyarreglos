@@ -1,0 +1,29 @@
+body {
+  margin: 60px;
+  background: #0000000f;
+  height: 100vh;
+}
+hr,
+div {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style: none;
+}
+ul span {
+  font-weight: bold;
+}
+
+.x-delete {
+  cursor: pointer;
+}
+
+tr:hover td {
+  background: #8080801c;
+}
+
+th,
+td {
+  padding: 1px 5px;
+}
